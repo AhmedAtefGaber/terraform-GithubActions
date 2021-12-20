@@ -18,6 +18,7 @@ Headers:
 Method:
 
 ```Get```
+
 Body:
 ```{"username":"xyz", "password":"xyz"}```
 
